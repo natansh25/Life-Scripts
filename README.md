@@ -6,6 +6,12 @@ This app makes goal setting and sharing a fun loving task.
 
 just set your life goals, visualize them daily to create a neuropathway and after you have successfully achieved your goals share them with everyone.
 
+
+# Screenshots 
+![](https://firebasestorage.googleapis.com/v0/b/lifescript-747d7.appspot.com/o/github%2Flifescript.png?alt=media&token=d6b25bba-5f65-4192-8603-8bb86b458bd6) 
+![](https://firebasestorage.googleapis.com/v0/b/lifescript-747d7.appspot.com/o/github%2Fls.png?alt=media&token=5cb6d6aa-fa43-4f92-9d46-c7c72a760a07)
+
+
 ## Features
 With the app, you can:
 
