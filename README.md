@@ -27,6 +27,9 @@ With the app, you can:
 
 - your data is secure in the clouds and you can access it from any device
 
+
+
+
 [Google Certified Associate Android Developer Digital Badge](https://www.credential.net/txa6s9vc)
 
 [Udacity Android Developer Nanodegree Certificate](https://confirm.udacity.com/JDMTWDA5)
